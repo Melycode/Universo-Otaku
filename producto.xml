@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<prod:producto xmlns:prod="http://www.mel.com/producto">
-    <prod:nombre>Chaqueta</prod:nombre>
-    <prod:marca>Navigata</prod:marca>
-    <prod:precio moneda="EUR">29.99</prod:precio>
-    <prod:descripcion>Chaqueta elegante para toda estación.</prod:descripcion>
-    <prod:stock>20</prod:stock>
-</prod:producto>

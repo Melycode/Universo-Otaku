@@ -3,7 +3,7 @@
     <col:coleccion>
         <col:titulo>Lady Oscar (La rosa de Versalles)</col:titulo>
         <col:autor>Riyoko Ikeda</col:autor>
-        <col:genero>Histórico, Romance</col:genero>
+        <col:genero>Histórico, romance</col:genero>
         <col:descripcion>
             Drama histórico sobre Oscar François de Jarjayes, una mujer criada como hombre que sirve en la Guardia Real durante la Revolución Francesa.
         </col:descripcion>
@@ -13,12 +13,22 @@
     <col:coleccion>
         <col:titulo>Los Caballeros del Zodiaco</col:titulo>
         <col:autor>Masami Kurumada</col:autor>
-        <col:genero>Acción, Fantasía</col:genero>
+        <col:genero>Acción, fantasía</col:genero>
         <col:descripcion>
             Jóvenes guerreros luchan usando armaduras sagradas para proteger a la diosa Atenea, combinando acción, amistad y mitología.
         </col:descripcion>
         <col:precio moneda="EUR">11.00</col:precio>
         <col:stock>15</col:stock>
+    </col:coleccion>
+    <col:coleccion>
+        <col:titulo>Capitan Subatsa</col:titulo>
+        <col:autor>Yoichi Takahashi</col:autor>
+        <col:genero>Acción, deporte</col:genero>
+        <col:descripcion>
+            Jóvenes guerreros luchan usando armaduras sagradas para proteger a la diosa Atenea, combinando acción, amistad y mitología.
+        </col:descripcion>
+        <col:precio moneda="EUR">13.00</col:precio>
+        <col:stock>12</col:stock>
     </col:coleccion>
 </col:colecciones>
 
