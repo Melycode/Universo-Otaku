@@ -5,7 +5,7 @@
 - **Temática:** Tienda online de mangas
 - **Tecnologías:** HTML, CSS, JavaScript y XML
 - **Plataforma de hosting:** GitHub Pages
-- **URL del proyecto:** [https://melycode.github.io/universo-otaku](https://melycode.github.io/universo-otaku)
+- **URL del proyecto:** [https://melycode.github.io/Universo-Otaku](https://melycode.github.io/Universo-Otaku/)
 
 ---
 
