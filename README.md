@@ -1,43 +1,42 @@
-# Universo Otaku | Tienda de Mangas
+# Universo Otaku | Manga Store
 
-## Información del Proyecto
-- **Nombre del proyecto:** Universo Otaku
-- **Temática:** Tienda online de mangas
-- **Tecnologías:** HTML, CSS, JavaScript y XML
-- **Plataforma de hosting:** GitHub Pages
-- **URL del proyecto:** [https://melycode.github.io/Universo-Otaku](https://melycode.github.io/Universo-Otaku/)
-
----
-
-## Descripción General
-Universo Otaku es una tienda web de mangas desarrollada como proyecto estudiantil. 
-Permite explorar un catálogo de títulos, añadirlos al carrito y finalizar el pedido 
-directamente por WhatsApp. Incluye también un sistema de suscripción por email.
+## Project Information
+- **Project Name:** Universo Otaku
+- **Theme:** Online manga store
+- **Technologies:** HTML, CSS, JavaScript and XML
+- **Hosting Platform:** GitHub Pages
+- **Project URL:** [https://melycode.github.io/Universo-Otaku](https://melycode.github.io/Universo-Otaku/)
 
 ---
 
-## Capturas de Pantalla
+## Overview
 
-### Vista general
+Universo Otaku is a web-based manga store developed as a student project. It allows users to browse a catalog of titles, add items to the cart, and complete the purchase directly via WhatsApp. It also includes an email subscription system.
+
+---
+
+## Screenshots
+
+### Overview
 <img width="1916" height="971" alt="Universo_Otaku1" src="https://github.com/user-attachments/assets/7d487260-d673-4d54-80b7-5feea4e59fc9" />
 
-### Catálogo
+### Catalog
 <img width="1786" height="966" alt="Universo_Otaku2" src="https://github.com/user-attachments/assets/108d57d1-9766-45ff-9838-fc61e8814ccd" />
 
 ---
 
-## Características
-- Catálogo dinámico con búsqueda en tiempo real
-- Filtros de ordenación por título, autor y precio
-- Carrito de compras con resumen de pedido
-- Integración con WhatsApp para finalizar compras
-- Modal de suscripción por email
-- Diseño responsive para móvil y escritorio
-- Datos estructurados en XML
+## Features
+- Dynamic catalog with real-time search
+- Sorting filters by title, author, and price
+- Shopping cart with order summary
+- WhatsApp integration to complete purchases
+- Email subscription modal
+- Responsive design for mobile and desktop
+- Structured data in XML
 
 ---
 
-## Documento XML
-El proyecto incluye un archivo XML con información de tres mangas: con título, autor, género, descripción, precio y stock.
+## XML Data
+The project includes an XML file containing information for three manga titles, including title, author, genre, description, price, and stock.
 
 
